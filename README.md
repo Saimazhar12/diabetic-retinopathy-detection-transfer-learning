@@ -46,6 +46,6 @@ This project highlights the effectiveness of deep learning in medical image anal
 ## 🔮 Future Improvements
 - Use larger and more diverse datasets for better generalization  
 - Implement multi-class classification for DR severity levels  
-- Deploy as a web application using Flask or Streamlit  
+- Deploy as a web application using Flask or Fast API
 - Optimize model for real-time predictions  
  
