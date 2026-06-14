@@ -61,17 +61,6 @@ The trained InceptionV3 model was deployed as a full-stack web application using
 - Displayed uploaded image and prediction result
 - Deployed the complete application on Hugging Face Spaces
 
-# 🧩 Project Structure
-
-- `app.py` → FastAPI backend code
-- `templates/index.html` → Home page UI
-- `templates/predict.html` → Prediction result page
-- `DR_InceptionV3.h5` → Trained Deep Learning model
-- `static/images/` → Application images
-- `static/user_uploaded/` → Uploaded images
-- `requirements.txt` → Dependencies
-- `notebook.ipynb` → Model training and evaluation
-
 # 🛠️ Technologies Used
 
 - Python
