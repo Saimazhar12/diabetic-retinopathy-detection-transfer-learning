@@ -1,4 +1,4 @@
-# 👁️ Diabetic Retinopathy Detection using Deep Learning (InceptionV3)
+# 👁️ Diabetic Retinopathy Detection using Deep Learning 
 
 This project implements a deep learning-based system to detect **Diabetic Retinopathy (DR)** from retinal fundus images using a fine-tuned **InceptionV3** model. The model is trained on retinal images and achieves high performance in classifying whether Diabetic Retinopathy is present or not.
 
